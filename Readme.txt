@@ -1,0 +1,5 @@
+GOOGLE_SEO_PROJECT
+
+01.使用CS_webkit找到GOOGLE可用的轉子網址
+02.透過index01.html上傳到DB中
+03.透過執行index02.php達到隨即瀏覽網頁的效果

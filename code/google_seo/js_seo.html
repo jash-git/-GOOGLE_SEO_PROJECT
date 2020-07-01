@@ -1,0 +1,64 @@
+<html>
+		<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf8">
+		<title>Js控制 iFrame 切换加载网址</title>
+		<script language="javascript">
+			var count=0
+			function jumpto(inputurl)
+			{
+				if (document.getElementById&&displaymode==0)
+					document.getElementById("external").src=inputurl
+				else if (document.all&&displaymode==0)
+					document.all.external.src=inputurl
+				else
+				{
+					if (!window.win2||win2.closed)
+						win2=window.open(inputurl)
+					else
+					{
+						win2.location=inputurl
+						win2.focus()
+					}
+				}
+			}
+			function Run()
+			{
+				count++;
+				if(count>4)
+				{
+					count=0;
+				}
+				switch(count)
+				{case 0:
+				jumpto('https://www.google.com/url?q=http://jashliao.eu/wordpress/&amp;sa=U&amp;ved=2ahUKEwioudP4mbHlAhWFAmMBHUgHDVEQFjAEegQIAxAB&amp;usg=AOvVaw0x3lPCVxQeG3owAI9vX9tA');
+				break;
+case 1:
+				jumpto('https://www.google.com/url?q=http://jashliao.eu/wordpress/2018/08/31/jashliao-eu-%25E8%25BB%259F%25E9%25AB%2594%25E6%25B8%2585%25E5%2596%25AE/&amp;sa=U&amp;ved=2ahUKEwioudP4mbHlAhWFAmMBHUgHDVEQFjAFegQIBRAB&amp;usg=AOvVaw2A8JUgzvQSEvVuG6dd6uur');
+				break;
+case 2:
+				jumpto('https://www.google.com/url?q=http://jashliao.eu/wordpress/&amp;sa=U&amp;ved=2ahUKEwjP9-34mbHlAhUChRoKHUS-C8UQFjAEegQIAxAB&amp;usg=AOvVaw2AjqIQEUa5eqmMVIZkv17r');
+				break;
+case 3:
+				jumpto('https://www.google.com/url?q=http://jashliao.eu/wordpress/2018/08/31/jashliao-eu-%25E8%25BB%259F%25E9%25AB%2594%25E6%25B8%2585%25E5%2596%25AE/&amp;sa=U&amp;ved=2ahUKEwjP9-34mbHlAhUChRoKHUS-C8UQFjAFegQIBBAB&amp;usg=AOvVaw2ury0FdJ34FbaiWYcVYWVb');
+				break;
+			}
+			setTimeout("Run();", 10000);
+		}
+		function Timer()
+        {
+            setTimeout("Run();", 10000);
+        }		
+	</script>
+	</head>
+	<body  onload="Timer()">
+		<script language="javascript">
+			<!--
+			var displaymode=0
+			var iframecode='<iframe id="external" style="width:100%;height:100%" src="http://jashliao.pixnet.net/blog/"></iframe>'
+			if (displaymode==0)
+				document.write(iframecode)
+
+			//-->
+		</script>
+	</body>
+</html>

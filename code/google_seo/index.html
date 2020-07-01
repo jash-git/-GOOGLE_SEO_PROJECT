@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>搜尋輸入頁面</title>
+	  <style type="text/css">
+		html{font-size:20px;}
+		fieldset{width:600px; margin: 0 auto;}
+		legend{font-weight:bold; font-size:24px;}
+		.label{float:left; width:100px; margin-left:20px;}
+		.left{margin-left:400px;font-size:18px;}
+		.input{width:300px; font-size:24px;}
+		span{color: #666666;}
+	  </style>
+	<script language=JavaScript>
+	<!--
+
+	function InputCheck(SearchForm)
+	{
+	  if (SearchForm.searchconditions.value == "")
+	  {
+		alert("請輸入搜尋條件!");
+		SearchForm.searchconditions.focus();
+		return (false);
+	  }
+	  if (SearchForm.searchdomain.value == "")
+	  {
+		alert("請輸入搜尋網站!");
+		SearchForm.searchdomain.focus();
+		return (false);
+	  }
+	}
+
+	//-->
+	</script>
+	</head>
+	
+	<body>
+		<div>
+			<fieldset>
+				<legend>搜尋輸入頁面</legend>
+				<form name="SearchForm" method="post" action="google_search.php" onSubmit="return InputCheck(this)">
+					<p>
+					<label for="searchconditions" class="label">搜尋條件:</label>
+					<input id="searchconditions" name="searchconditions" type="text" class="input" />
+					<p/>
+					<p>
+					<label for="searchdomain" class="label">搜尋網站:</label>
+					<input id="searchdomain" name="searchdomain" type="text" value="http://jashliao.pixnet.net" class="input" />
+					<p/>
+					<p>
+					<input type="submit" name="submit" value="  確  定  " class="left" />
+					</p>
+				</form>
+			</fieldset>
+		</div>
+	</body>
+</html>
