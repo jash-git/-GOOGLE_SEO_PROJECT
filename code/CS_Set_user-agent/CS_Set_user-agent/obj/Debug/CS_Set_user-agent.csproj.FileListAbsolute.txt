@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\bin\Debug\CS_Set_user-agent.exe.config
+C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\bin\Debug\CS_Set_user-agent.exe
+C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\bin\Debug\CS_Set_user-agent.pdb
+C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user_agent.Form1.resources
+C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user_agent.Properties.Resources.resources
+C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.exe
+C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.pdb
