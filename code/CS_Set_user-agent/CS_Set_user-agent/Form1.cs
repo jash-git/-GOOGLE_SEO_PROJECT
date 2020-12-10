@@ -3,10 +3,12 @@ using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
@@ -27,10 +29,21 @@ namespace CS_Set_user_agent
             label1.Text = DateTime.Now.ToString("yyyy/MM/dd HH:mm:ss");
             if(m_intCount==0)
             {
+                foreach (var process in Process.GetProcessesByName("brave"))
+                {
+                    process.Kill();
+                }
+
                 Random R = new Random();
                 m_ALindex = R.Next(0, (m_ALData.Count-1));
                 this.Text = m_ALindex.ToString();
                 textBox1.Text = m_ALData[m_ALindex].ToString();
+                ProcessStartInfo start = new ProcessStartInfo();
+                start.FileName = "C:\\Users\\jashliao\\Downloads\\brave-portable-win32-1.14.81-64\\brave-portable.exe";  // Specify exe name.
+                start.Arguments = String.Format(" http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php --user-agent=\"{0}\"", textBox1.Text);
+                start.UseShellExecute = false;
+                start.RedirectStandardOutput = false;
+                Process p01 = Process.Start(start);
                 this.WindowState = FormWindowState.Maximized;
                 this.TopMost = true;
                 

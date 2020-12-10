@@ -7,3 +7,12 @@ C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user_
 C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.exe
 C:\Users\user\Desktop\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.pdb
+C:\Users\jashliao\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\bin\Debug\CS_Set_user-agent.exe.config
+C:\Users\jashliao\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.exe
+C:\Users\jashliao\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.pdb
+C:\Users\jashliao\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\bin\Debug\CS_Set_user-agent.exe
+C:\Users\jashliao\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\bin\Debug\CS_Set_user-agent.pdb
+C:\Users\jashliao\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.csprojResolveAssemblyReference.cache
+C:\Users\jashliao\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user_agent.Form1.resources
+C:\Users\jashliao\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user_agent.Properties.Resources.resources
+C:\Users\jashliao\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.csproj.GenerateResource.Cache
