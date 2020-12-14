@@ -1,0 +1,3 @@
+chromium http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php --user-agent="Mozilla/5.0 (Linux; Android 6.0.1; SM-J700M Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.126 Mobile Safari/537.36"  > output.log 2>&1 &
+sleep 600
+ps aux | grep chrom | awk '{print $2}' | xargs kill -9

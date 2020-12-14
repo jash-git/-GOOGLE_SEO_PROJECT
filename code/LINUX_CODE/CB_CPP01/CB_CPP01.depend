@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1607782334 source:/home/pi/CB_CPP01/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
