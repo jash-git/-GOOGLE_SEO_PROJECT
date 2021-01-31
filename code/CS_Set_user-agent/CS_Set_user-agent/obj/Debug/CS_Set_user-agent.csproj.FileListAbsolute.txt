@@ -24,3 +24,4 @@ C:\Users\user\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_S
 C:\Users\user\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.csproj.GenerateResource.Cache
 C:\Users\user\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.exe
 C:\Users\user\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.pdb
+C:\Users\user\Desktop\CS_TOOL\CS_Set_user-agent\CS_Set_user-agent\obj\Debug\CS_Set_user-agent.csprojResolveAssemblyReference.cache

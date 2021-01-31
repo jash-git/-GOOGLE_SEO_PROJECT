@@ -48,7 +48,7 @@ namespace CS_Set_user_agent
             m_blnPing[1] = TcpSocketTest();
             if ( (m_intCount==0) || (m_blnPing[1]^m_blnPing[0]))
             {
-                foreach (var process in Process.GetProcessesByName("brave"))
+                foreach (var process in Process.GetProcessesByName("opera"))
                 {
                     try
                     {
@@ -62,8 +62,10 @@ namespace CS_Set_user_agent
                 this.Text = m_ALindex.ToString();
                 textBox1.Text = m_ALData[m_ALindex].ToString();
                 ProcessStartInfo start = new ProcessStartInfo();
-                start.FileName = "C:\\Users\\user\\Downloads\\brave-portable-win64-1.14.81-64\\brave-portable.exe";  // Specify exe name.
-                start.Arguments = String.Format(" http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php --user-agent=\"{0}\"", textBox1.Text);
+                string path = System.Windows.Forms.Application.StartupPath;
+                //start.FileName = "C:\\Users\\user\\Downloads\\brave-portable-win64-1.14.81-64\\brave-portable.exe";  // Specify exe name.
+                start.FileName = path + "\\Opera\\73.0.3856.344\\opera.exe";
+                start.Arguments = String.Format(" http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php --user-agent=\"{0}\"", textBox1.Text);
                 start.UseShellExecute = false;
                 start.RedirectStandardOutput = false;
                 Process p01 = Process.Start(start);
