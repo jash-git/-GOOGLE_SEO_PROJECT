@@ -56,20 +56,23 @@ namespace CS_Set_user_agent
                     }
                     catch { }
                 }
+                string path = System.Windows.Forms.Application.StartupPath;
+
+                Process p00 = Process.Start(path+ "\\del_OperaDir.bat");
+                p00.WaitForExit();
 
                 Random R = new Random();
                 m_ALindex = R.Next(0, (m_ALData.Count-1));
                 this.Text = m_ALindex.ToString();
                 textBox1.Text = m_ALData[m_ALindex].ToString();
-                ProcessStartInfo start = new ProcessStartInfo();
-                string path = System.Windows.Forms.Application.StartupPath;
+                ProcessStartInfo start = new ProcessStartInfo();            
                 //start.FileName = "C:\\Users\\user\\Downloads\\brave-portable-win64-1.14.81-64\\brave-portable.exe";  // Specify exe name.
                 start.FileName = path + "\\Opera\\73.0.3856.344\\opera.exe";
                 start.Arguments = String.Format(" http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php http://jashliao.eu/google_seo/index02.php --user-agent=\"{0}\"", textBox1.Text);
                 start.UseShellExecute = false;
                 start.RedirectStandardOutput = false;
                 Process p01 = Process.Start(start);
-                this.WindowState = FormWindowState.Maximized;
+                //this.WindowState = FormWindowState.Maximized;
                 //this.TopMost = true;
                 
             }
@@ -77,7 +80,7 @@ namespace CS_Set_user_agent
             m_blnPing[0] = m_blnPing[1];
 
             m_intCount++;
-            if (m_intCount>60*15)
+            if (m_intCount > 60 * 5)//if (m_intCount>60*15)
             {
                 m_intCount = 0;
             }
