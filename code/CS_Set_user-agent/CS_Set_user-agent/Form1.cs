@@ -58,7 +58,12 @@ namespace CS_Set_user_agent
                 }
                 string path = System.Windows.Forms.Application.StartupPath;
 
-                Process p00 = Process.Start(path+ "\\del_OperaDir.bat");
+                ProcessStartInfo start00 = new ProcessStartInfo();
+                start00.FileName = path + "\\del_OperaDir.bat";
+                start00.UseShellExecute = true;
+                start00.RedirectStandardOutput = false;
+                start00.WindowStyle = ProcessWindowStyle.Minimized;
+                Process p00 = Process.Start(start00);
                 p00.WaitForExit();
 
                 Random R = new Random();
