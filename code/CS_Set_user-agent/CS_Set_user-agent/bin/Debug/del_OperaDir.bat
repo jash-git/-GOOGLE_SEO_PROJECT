@@ -2,7 +2,8 @@
 
 set OperaDir=%cd%\Opera\profile\data
 
-del /q /s /f "%OperaDir%"
-rd /s /q "%OperaDir%"
+echo log start >log.txt
+del /q /s /f "%OperaDir%" >>log.txt
+rd /s /q "%OperaDir%" >>log.txt
 
 REM pause
