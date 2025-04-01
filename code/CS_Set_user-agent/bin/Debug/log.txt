@@ -1,0 +1,457 @@
+log start 
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\au_global_storage
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\au_global_storage.backup
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Bookmarks
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\BookmarksExtras
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\browser.js
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\BrowserEngineData
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cookies
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cookies-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\default_partner_content.json
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Favicons
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Favicons-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\History
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\History Provider Cache
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\History-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Local State
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Login Data
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Login Data-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\MANIFEST-000002
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Media History
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Media History-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Network Action Predictor
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Network Action Predictor-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Network Persistent State
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\PartnerRules
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Preferences
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\QuotaManager
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\QuotaManager-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Reporting and NEL
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Reporting and NEL-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\rhs.dat
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Secure Preferences
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Shortcuts
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Shortcuts-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\siteprefs.json
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\ssdfp19356.0.741851251
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\ssdfp19356.0.741851251.lock
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\suggestions_cache.json
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\TransportSecurity
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Visited Links
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Web Data
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Web Data-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\AutofillStrikeDatabase\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\AutofillStrikeDatabase\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\AutofillStrikeDatabase\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\AutofillStrikeDatabase\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\AutofillStrikeDatabase\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\BudgetDatabase\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\BudgetDatabase\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\BudgetDatabase\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\BudgetDatabase\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\BudgetDatabase\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\data_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\data_1
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\data_2
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\data_3
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000002
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000003
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000004
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000005
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000006
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000007
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000008
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000009
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00000a
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00000b
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00000c
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00000d
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00000e
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00000f
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000010
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000011
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000012
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000013
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000014
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000015
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000016
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000017
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000018
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000019
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00001a
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00001b
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00001c
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00001d
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00001e
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00001f
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000020
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000021
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000023
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000024
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000025
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000026
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000027
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000028
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000029
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00002a
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00002b
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00002c
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00002d
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00002e
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00002f
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000030
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000031
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000032
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000033
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000034
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000035
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000036
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000037
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000038
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000039
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00003a
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00003b
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00003c
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00003d
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00003e
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00003f
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000040
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000041
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000042
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000043
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000044
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000045
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000046
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000047
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000048
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000049
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00004a
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00004b
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00004c
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00004d
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00004e
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00004f
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000050
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000051
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000052
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000053
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000054
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000055
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000056
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000057
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000058
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000059
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00005a
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00005b
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00005c
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00005d
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00005e
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00005f
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000060
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000061
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000062
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000063
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000064
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000065
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000066
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000067
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000068
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000069
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00006a
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00006b
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00006c
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00006d
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00006e
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00006f
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000070
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000071
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000072
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000073
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000074
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000075
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000076
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000077
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000078
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000079
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00007a
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00007b
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00007c
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00007d
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00007e
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00007f
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000080
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000081
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000082
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000083
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000084
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000085
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000086
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000087
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000088
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000089
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00008a
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00008b
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00008c
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00008d
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00008e
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_00008f
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000090
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000091
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\f_000092
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Cache\index
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\CertificateRevocation\9665\crl-set
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\CertificateRevocation\9665\LICENSE
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\CertificateRevocation\9665\manifest.fingerprint
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\CertificateRevocation\9665\manifest.json
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\CertificateRevocation\9665\_metadata\verified_contents.json
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\00d357158f30fca8_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\020c147746698780_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\04a2db864ce0e082_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\05864ae5dfffe303_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\07ba3239b23a20a3_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\0979b5c93bcc1928_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\0a4ccf4772bdd755_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\0e9777e1918a3c3a_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\0e998a64c29746f4_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\10c2fd793f753ef6_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\12ec3da4a9cb8f8d_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\18017ef40cb23cf9_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\18be3750f3c4976e_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\1a22802af6ba722c_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\1b366193be84cf4e_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\1b668f7235e1f4eb_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\1f83ebf81f363a3d_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\24b04f7554aa8ba9_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\25d64063309715b1_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\28577d28a82b0ada_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\2c51374018c5e9f8_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\2c55edbeda6cc43c_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\2ebc0f8c2e365f89_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\352cfc0f9d58aa36_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\35a7afe5d6b1d5b3_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\3aed4ece78a4b449_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\3b8172389d166c59_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\3c393f0553e16a39_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\3f6e882866f9696c_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\405cca31878e5878_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\408207e2c79000e5_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\42c8e90c57ed6d8e_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\48f3194e3e452170_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\49f9eae4aec7be7a_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\4dfcb2332b9b5b2a_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\5315fbeb29f8d212_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\55f835a06ab45775_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\56ce145c520b2bfd_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\5ac70aedd484c9f2_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\5e49a7e5489f068c_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\5e6a1bb2969ee396_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\5ebff6cdac5c0477_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\62e35c1b832e3275_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\637e68b2e05749b7_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\63cc91177a0f212f_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\68ea87caf4494b84_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\6a18ea7cb79b7296_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\6a560f7edaf2d5c5_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\6d9702ff85732fdd_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\6f5114054f056a1c_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\6fc7c439d0c2c302_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\6ff6778d333a5c18_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\710fd4a1d6522069_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\71208c596ddedf07_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\720d78e3fc8ea96f_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\7278b4fae7719635_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\7a4896e5a003cb3c_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\7dd489dbfb5ad991_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\7f3871ef0a23f164_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\83986d614dcc0816_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\854c0d0b3430bf13_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\893ad88cacc503cc_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\8e513c5a702e5aa5_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9309fb9b0cbe78a4_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\97b48b690fea8c2a_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\97e087885c8db8f3_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\97e7228d53349359_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\999f4ac0eb169674_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\99bd70a79522d751_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\99ccad4d798155b8_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9b3e6f96717da6bf_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9b7b98ba4196222b_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9c3e09160744188c_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9d50613a387d9d15_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9d5a7e70360376bb_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9e10d993f1c504f3_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9ec05e92725d433f_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9f3ca49c5f79b3a2_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9fcdaf0bfca02dc4_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\9fdf175e4ae7c44a_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\a2268962100e303c_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\a25e5ec453236382_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\a2f54812db3ea097_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\a5682a31bd982147_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\a62e469884247a8a_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\a66023695d820d9f_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\a6b2e2321715e2bc_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\ad82beacb854eeb5_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\b17e3072fa68cad2_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\b3863b39b2453ce9_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\b3c0342833bba691_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\bafabaaf1c95c3d3_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\bc1239256e32b596_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\bc2979e2e21f3213_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\bdf3d8d8e5ef0878_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\c1218d1d36863c27_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\c2a62a7b81af7aec_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\c67a4e30117663c0_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\ca6e36aad3502335_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\cab2393172d4b7a2_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\cd4645c4b7364596_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\cd968be813cff4ac_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\d079fdf312674ecf_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\d41d98585633448e_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\d7a92d48fc82d97d_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\d8245f0ac101dec2_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\d86ff231450aef1d_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\da13173621bce00e_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\da7bb37184b1a77e_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\dafd26a6421c9763_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\db402244ac5ff21a_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\dbaf888db920ad74_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\dc74211319de9424_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\dd9a15a7a8c5c475_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\df53bad28ea1e322_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\e2c5b0ca4554c052_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\e3dcabb6b701c888_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\e6c67ad54d3eaf80_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\e8f9130c4f3d71d1_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\ebb2ce4b3a499ce0_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\ecf81e143de83bda_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\f39dba345fd7193d_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\f5f4dc54a2f2b900_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\f5faca93c7d2f1cc_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\f717efd46e3a0f86_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\fc0dc592806ef259_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\index
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\js\index-dir\the-real-index
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\wasm\index
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Code Cache\wasm\index-dir\the-real-index
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Crash Reports\metadata
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Crash Reports\settings.dat
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\databases\Databases.db
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\databases\Databases.db-journal
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Extension State\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Extension State\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Extension State\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Extension State\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Extension State\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GCM Store\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GCM Store\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GCM Store\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GCM Store\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GCM Store\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GPUCache\data_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GPUCache\data_1
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GPUCache\data_2
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GPUCache\data_3
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GPUCache\index
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GrShaderCache\GPUCache\data_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GrShaderCache\GPUCache\data_1
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GrShaderCache\GPUCache\data_2
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GrShaderCache\GPUCache\data_3
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\GrShaderCache\GPUCache\index
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\chrome-extension_obhaigpnhcioanniiaepcgkdilopflbb_0.indexeddb.leveldb\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000005.ldb
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000013.ldb
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000014.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\000016.ldb
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\http_jashliao.eu_0.indexeddb.leveldb\000004.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\http_jashliao.eu_0.indexeddb.leveldb\000005.ldb
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\http_jashliao.eu_0.indexeddb.leveldb\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\http_jashliao.eu_0.indexeddb.leveldb\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\http_jashliao.eu_0.indexeddb.leveldb\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\IndexedDB\http_jashliao.eu_0.indexeddb.leveldb\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List Icons\29a4bf3a-52d3-40f5-892a-4d6c62873e52.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List Icons\6e232ac2-8f5a-45b5-8cb3-951afcf203f5.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List Icons\9708555f-533f-47a5-b285-1f471cb6ddaf.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List Icons\ab7c7de5-f1e3-4e8c-9468-dc40bc468fc8.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List Icons\af6b61b0-d315-4cc5-98ea-01a4bbb767c1.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List Icons\cd921741-d79b-4697-bcd0-dd9e5c604f8f.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List Icons\d85a3fb8-9dc1-43f6-815d-7777ef76aaca.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List IconsOld\6681e455-9c2b-47c2-8f06-1841b80a68c1.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List IconsOld\78e2a509-84d8-472b-bacd-39aa4f3f5c8e.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List IconsOld\7993bcb8-5dba-417b-b0ca-aa594a1c6a8c.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List IconsOld\d1d7542f-8ee7-47c0-8b9c-49049671ed91.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List IconsOld\d8ceae09-383b-4cff-8e73-33220d047c56.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List IconsOld\e8084787-f61c-438d-aff7-38d4609ea281.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Jump List IconsOld\fb867d8f-eb24-431b-ac67-407dab9a8158.tmp
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Local Storage\leveldb\000004.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Local Storage\leveldb\000005.ldb
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Local Storage\leveldb\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Local Storage\leveldb\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Local Storage\leveldb\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Local Storage\leveldb\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\MEIPreload\1.0.6.0\manifest.fingerprint
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\MEIPreload\1.0.6.0\manifest.json
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\MEIPreload\1.0.6.0\preloaded_data.pb
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\MEIPreload\1.0.6.0\_metadata\verified_contents.json
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Platform Notifications\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Platform Notifications\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Platform Notifications\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Platform Notifications\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Platform Notifications\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Session Storage\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Session Storage\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Session Storage\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Session Storage\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Session Storage\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Sessions\Session_13387966869008249
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Sessions\Tabs_13387966869008052
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\ShaderCache\GPUCache\data_0
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\ShaderCache\GPUCache\data_1
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\ShaderCache\GPUCache\data_2
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\ShaderCache\GPUCache\data_3
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\ShaderCache\GPUCache\index
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\shared_proto_db\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\shared_proto_db\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\shared_proto_db\metadata\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\shared_proto_db\metadata\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\shared_proto_db\metadata\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\shared_proto_db\metadata\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\shared_proto_db\metadata\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Site Characteristics Database\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Site Characteristics Database\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Site Characteristics Database\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Site Characteristics Database\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Site Characteristics Database\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\StatsSessions\session_a5d34bcf-b159-469e-84b7-8f8aa376aa8d.raw
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\StatsSessions\session_a5d34bcf-b159-469e-84b7-8f8aa376aa8d.raw.lock
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Subresource Filter\Indexed Rules\27\9.55.0\Ruleset Data
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Subresource Filter\Unindexed Rules\9.55.0\Filtering Rules
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Subresource Filter\Unindexed Rules\9.55.0\LICENSE.txt
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Subresource Filter\Unindexed Rules\9.55.0\manifest.fingerprint
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Subresource Filter\Unindexed Rules\9.55.0\manifest.json
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Subresource Filter\Unindexed Rules\9.55.0\_metadata\verified_contents.json
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Sync Data\LevelDB\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Sync Data\LevelDB\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Sync Data\LevelDB\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Sync Data\LevelDB\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\Sync Data\LevelDB\MANIFEST-000001
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\themes_backup\default_dark_theme.zip
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\themes_backup\default_theme.zip
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\VideoDecodeStats\000003.log
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\VideoDecodeStats\CURRENT
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\VideoDecodeStats\LOCK
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\VideoDecodeStats\LOG
+刪除的檔案 - C:\Users\jashv\Downloads\CS_Set_user-agent\bin\Debug\Opera\profile\data\VideoDecodeStats\MANIFEST-000001
